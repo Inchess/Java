@@ -6,6 +6,17 @@ public class First {
     public static void main(String... arg) {
         System.out.println("Cześć Michał");
         System.out.println("drugi");
+        System.out.println("Cześć Michał");
+        System.out.println("drugi");
+        System.out.println("Cześć Michał");
+        System.out.println("drugi");
+        System.out.println("Cześć Michał");
+        System.out.println("drugi");
+        System.out.println("Cześć Michał");
+        System.out.println("drugi");
+        System.out.println("Cześć Michał");
+        System.out.println("drugi");
+
     }
 
 }
