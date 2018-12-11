@@ -4,7 +4,7 @@
 public class First {
 
     public static void main(String... arg) {
-        System.out.println("Czołem");
+        System.out.println("Hej hej hej");
     }
 
 }
